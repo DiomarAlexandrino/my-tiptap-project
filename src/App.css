@@ -1,3 +1,54 @@
+
+@import url("https://fonts.googleapis.com/css2?family+Poppins:wgt@200;400;500;700;900&display=swap");
+
+
+.App{
+  font-family: Poppins, sans-serif;
+  max-width: 700px;
+  margin: 5rem auto;
+
+}
+
+.text-editor{
+  border-radius: 5px;
+  border: 1 px solid grey;
+
+
+}
+
+.menu-bar{
+  padding-bottom: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menu-bar button{
+  font-size: 18px;
+  margin:7px;
+  margin-right: 15px;
+  outline: none;
+  border:none;
+  background:none;
+  color: rgb(70,70,70);
+  cursor: pointer;
+
+}
+
+button.is_active{
+  background: rgb(197, 197, 197);
+  padding:2px 3px;
+  border-radius: 2px;
+}
+.ProseMirror{
+  padding: 10px;
+  border-top: 1px solid grey;
+  background: white;
+  border-radius: 0 0 5px 5px;
+  min-height: 100px;
+}
+
+
 /* Basic editor styles */
 .ProseMirror > * + * {
   margin-top: 0.75em;
@@ -52,3 +103,4 @@
   border-top: 2px solid rgba(13, 13, 13, 0.1);
   margin: 2rem 0;
 }
+
