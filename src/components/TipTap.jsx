@@ -109,12 +109,6 @@ const MenuBar = ({ editor }) => {
   );
 };
 
-// dummy upload image function
-function uploadImage(file) {
-  return new Promise((resolve, reject) => {
-    resolve("https://source.unsplash.com/kSfv9njQVc8/800x400");
-  });
-}
 
 const TipTap = ({ setDesc }) => {
   const editor = useEditor({
