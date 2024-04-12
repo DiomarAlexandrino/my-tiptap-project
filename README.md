@@ -9,7 +9,7 @@ This project was initially created with the TipTap tool documentation, with this
 
 https://tiptap.dev/docs/editor/installation/react#5-consume-the-editor-context-in-child-components
 
-
+![Imagem do Projeto](https://exemplo.com/logo.png)
 
 # Getting Started with Create React App
 
@@ -42,3 +42,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+
+
+[def]: 
