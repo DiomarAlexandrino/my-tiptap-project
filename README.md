@@ -9,7 +9,8 @@ This project was initially created with the TipTap tool documentation, with this
 
 https://tiptap.dev/docs/editor/installation/react#5-consume-the-editor-context-in-child-components
 
-![Imagem do Projeto](https://exemplo.com/logo.png)
+![image](https://github.com/DiomarAlexandrino/my-tiptap-project/assets/19246040/a7f683a7-fb1e-438e-9283-6df6f73bfe19)
+
 
 # Getting Started with Create React App
 
