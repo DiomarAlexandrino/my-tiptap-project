@@ -7,8 +7,6 @@ Este projeto foi feito inicialmente com a documentação da ferramenta TipTap, c
 This project was initially created with the TipTap tool documentation, with this tool it is possible to edit and manipulate texts in the editor, some buttons were implemented to make a more interactive interface, follow the project link below and the TipTap tool doc link
 
 
-https://tiptap.dev/docs/editor/installation/react#5-consume-the-editor-context-in-child-components
-
 ![image](https://github.com/DiomarAlexandrino/my-tiptap-project/assets/19246040/a7f683a7-fb1e-438e-9283-6df6f73bfe19)
 
 
